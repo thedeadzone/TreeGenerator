@@ -1,0 +1,24 @@
+body {
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+#margin {
+    margin-bottom: 3px;
+}
+
+#myCanvas {
+    margin-top: 10px;
+}
+
+#box.border{
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-top: 5px;
+    width: 520px;
+    height: 143px;
+    display: block;
+    border: 1px solid #aeaeae;
+    background: #d4d4d4;
+}
