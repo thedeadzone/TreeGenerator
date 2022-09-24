@@ -1,7 +1,4 @@
 # TreeGenerator
 Tree generator
 
-Signature genereren op basis van API data binnen wargaming.net
-
-De printscreens voor werkend op drie websites:
-http://imgur.com/a/yz6Bu
+Generate a forum signature based on the wargaming.net api. Color is generated based upon the amount of trees driven over. 
